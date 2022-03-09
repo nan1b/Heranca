@@ -5,6 +5,7 @@ public class Cavalo extends Animal{
 		System.out.println("Cavalo correndo");
 	}
 	
+	@Override
 	public void emitirSom() {
 		System.out.println("Irrrinn!");
 	}

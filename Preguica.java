@@ -5,6 +5,7 @@ public class Preguica extends Animal{
 		System.out.println("Preguiça subindo em árvore");
 	}
 	
+	@Override
 	public void emitirSom() {
 		System.out.println("AAAAAAAA!");
 	}
