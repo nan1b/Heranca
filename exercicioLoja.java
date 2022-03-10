@@ -2,8 +2,6 @@ package Heranca;
 
 import java.util.*;
 
-import Collections.Loja;
-
 public class exercicioLoja {
 	public static void main(String[] args) {
 		
